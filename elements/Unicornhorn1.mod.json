@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Unicorndust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Unicorndust"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "CUSTOM:Unicorndust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Unicorndust"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Unicornhorn"
+    },
+    "name": "unicornhorn1",
+    "namespace": "mod"
+  }
+}

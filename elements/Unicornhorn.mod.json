@@ -1,0 +1,33 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "unicornhorn",
+    "customModelName": "Normal",
+    "name": "Unicorn Horn",
+    "creativeTab": {
+      "value": "CUSTOM:Omesbaua"
+    },
+    "toolType": "Special",
+    "harvestLevel": 0,
+    "efficiency": 5.0,
+    "attackSpeed": 0.5,
+    "enchantability": 5,
+    "damageVsEntity": 0.0,
+    "usageCount": 16,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Unicorndust"
+      }
+    ],
+    "onRightClickedOnBlock": {
+      "name": "UnicornhornRightClickedOnBlock"
+    },
+    "onCrafted": {
+      "name": "UnicornhornItemIsCraftedsmelted"
+    }
+  }
+}

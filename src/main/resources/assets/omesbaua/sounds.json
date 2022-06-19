@@ -1,0 +1,20 @@
+{
+  "unicornsisterdie": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "omesbaua:unicornsisterdie",
+        "stream": true
+      }
+    ]
+  },
+  "magic": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "omesbaua:magic",
+        "stream": true
+      }
+    ]
+  }
+}
